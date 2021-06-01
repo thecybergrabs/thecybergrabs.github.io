@@ -1,10 +1,11 @@
 baseurl: ""
-url: "thecybergrabs.github.io"
+url: "blog.thecybergrabs.org"
 
 title: The Cyber Grabs
 description: "InfoSec Blog"
 avatar:
 favicon:
+site.header_text: The Cyber Grabs
 
 header_text: The Cyber Grabs - InfoSec Blog
 header_feature_image: assets/img/bg/index.jpg
