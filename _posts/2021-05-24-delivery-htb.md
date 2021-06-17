@@ -2,6 +2,6 @@
 layout: post
 title: HackTheBox- Delivery Walkthrough
 tags: [CTF, HackTheBox, HTB]
-color: turquoise
+color: green
 excerpt_separator:
 ---
